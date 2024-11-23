@@ -1,4 +1,4 @@
-# 🌟 Rajarshi Nandi's QA Automation Hub 🌟  
+# 🌟 Rajarshi Nandi's Test Automation Hub 🌟  
 
 Welcome to my personal repository! This is where I showcase my journey as a **QA Automation Test Lead** with over 12 years of expertise in building scalable automation frameworks, designing robust test strategies, and delivering quality software solutions.  
 
