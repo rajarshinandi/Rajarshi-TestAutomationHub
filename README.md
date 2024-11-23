@@ -6,11 +6,11 @@ Welcome to my personal repository! This is where I showcase my journey as a **QA
 
 ## 🔧 Skills & Expertise  
 
-✨ **Automation Frameworks**: Java, Selenium WebDriver, Rest Assured, Cucumber (BDD)  
-✨ **Testing Domains**: UI Testing, API Testing, Functional Testing, Accessibility Testing  
-✨ **CI/CD Integration**: Harness, Jenkins
-✨ **Cloud Testing**: Sauce Labs, BrowserStack  
-✨ **Programming Languages**: Java, JavaScript, SQL  
+✨ **Automation Frameworks**: Java, Selenium WebDriver, Rest Assured, Cucumber (BDD)   
+✨ **Testing Domains**: UI Testing, API Testing, Functional Testing, Accessibility Testing   
+✨ **CI/CD Integration**: Harness, Jenkins   
+✨ **Programming Languages**: Java, JavaScript, SQL     
+✨ **Cloud Testing**: Sauce Labs, BrowserStack   
 
 ---
 
